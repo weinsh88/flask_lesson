@@ -2,4 +2,6 @@
 
 ## TODO
 
-[]Deploy containerized application
+- Containerize application using docker
+- Build and deploy with docker compose
+- Create ci/cd workflow for deploying to webserver
